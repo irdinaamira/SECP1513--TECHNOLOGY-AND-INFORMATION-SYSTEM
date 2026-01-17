@@ -15,6 +15,7 @@ of how hardware components work together and the importance of handling them cor
 This practical experience strengthened my technical knowledge and gave me more confidence in understanding PC systems beyond theory.
 
 #PHOTOS
+
 ![During attaching the pc compartments ](attached_pc.jpg)
 
 ![After reattaching the pc compartments](reattached_pc.jpg)
