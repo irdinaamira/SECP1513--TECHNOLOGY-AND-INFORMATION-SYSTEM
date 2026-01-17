@@ -36,6 +36,8 @@
 
 - **Reflection**: This practical experience strengthened my technical knowledge and gave me more
               confidence in understanding PC systems beyond theory.
+  
+  ![During attaching the pc compartments ](attached_pc.jpg)
 
   
 
