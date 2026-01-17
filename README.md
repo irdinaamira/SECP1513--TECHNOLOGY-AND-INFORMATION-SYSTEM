@@ -11,7 +11,7 @@ This repository contains all my **assignments** for the **Digital Technology in 
 - Summary: A video presentation about an industry talk attended during UTM Open Day.
 
 ### 2. Assignment 2 - Industry Talk (PPG Platform, Webex)
-- File: [Assignment2_Report.pdf](Assignment2_Report.pdf)  
+- File: [Assignment2_Poster.pdf](Assignment2_Poster.pdf)  
 - Summary: Reflection and notes from the industry talk held on Webex.
 
 ### 3. Assignment 3 - Academic Writing: Project Management & System Development
