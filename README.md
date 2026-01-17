@@ -1,7 +1,7 @@
-TECHNOLOGY AND INFORMATION SYSTEM - Assignments
+# TECHNOLOGY AND INFORMATION SYSTEM 
 
-This repository contains all my **assignments** for the **Technology and Information System** subject.  
-
+#### Welcome! This repository contains all my work for the **Technology and Information System** subject.  
+#### Click on any link below to view the assignment or design thinking project.
 ---
 
 ## Assignments
@@ -28,7 +28,8 @@ This repository contains all my **assignments** for the **Technology and Informa
 - Reflection: 
 ---
 
-
+# PC Assemble
+## [PC Assemble](PC_ASSEMBLE)
 
 
 
