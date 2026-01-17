@@ -29,7 +29,7 @@
 ---
 
 # PC Assemble
-## [PC Assemble](PC_ASSEMBLE)
+## [PC Assemble](PC_ASSEMBLE/)
 
 
 
