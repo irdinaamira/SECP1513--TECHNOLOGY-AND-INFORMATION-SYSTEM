@@ -1,0 +1,16 @@
+# TECHNOLOGY AND INFORMATION SYSTEM
+
+
+CLICK HERE TO VIEW:-
+
+- ASSIGNMENTS
+  --
+ [ASSIGNMENTS](Assignments)
+
+- PC MAINTENANCE
+  --
+[PC MAINTENANCE](pc_maintenance)
+
+- DESIGN THINKING
+  --
+[DESIGN THINKING](design_thinking)
