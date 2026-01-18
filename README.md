@@ -9,7 +9,7 @@
 ### 1. Assignment 1 - Industry Talk Video (UTM Open Day)
 - **File**: [Assignment1_Video.mp4](Assignment1_Video.mp4.mp4)  
 - **Summary**: The UTMD InsightX industry talks discussed Information Systems, Digital Infrastructure, and Data Engineering. The talks explained how information systems are used to manage data and support daily business operations. They also covered how digital infrastructure and data engineering help store, process, and manage data to support modern systems and organisations.
-- **Reflection**:From these talks, I learned that information systems, digital infrastructure, and data engineering are closely connected in real industry environments. I understood how data is managed and supported by strong digital infrastructure to help organisations work efficiently. Overall, these talks helped me gain a better understanding of how technology is applied in real-world syst
+- **Reflection**:From these talks, I learned that information systems, digital infrastructure, and data engineering are closely connected in real industry environments. I understood how data is managed and supported by a strong digital infrastructure to help organisations work efficiently. Overall, these talks helped me gain a better understanding of how technology is applied in real-world systems
   
 ### 2. Assignment 2 - Industry Talk (PPG Platform, Webex)
 - **File**: [Assignment2_Poster.pdf](Assignment2_Poster.pdf)  
@@ -25,7 +25,7 @@
 ### 4. Assignment 4 - Newsletter
 - **File**: [Assignment4_Newsletter.pdf](Assignment4_Newsletter.pdf)  
 - **Summary**:The industrial visit to Biocon Sdn. Bhd exposed students to the biotechnology manufacturing environment. The visit showed how
-  computing systems, automation, databases, and ERP systems are used in insulin production, quality control, and supply chain management to ensure efficiency and compliance.
+  Computing systems, automation, databases, and ERP systems are used in insulin production, quality control, and supply chain management to ensure efficiency and compliance.
 - **Reflection**: This visit helped me understand how information systems support biotechnology operations. I observed how automated machines, monitoring systems, and data analytics ensure product quality and safety. Overall, the visit strengthened my understanding of how classroom concepts are used in real industrial settings.
 ---
 
@@ -42,8 +42,11 @@
   ![After reattaching the pc compartments](attach_pc.jpg)
 
  ## Design Thinking Project 
-### 1. Assignment 1 - Industry Talk Video (UTM Open Day)
-- **File**: [Report.pdf](report.pdf)  
+### 1. Report
+- **File**: [Report.pdf](report.pdf)
+### 2. Presentation slide
+- **File**: [Presentation_Slide.pdf](Slide.pdf)
+
 - **Summary**: The design thinking activity helped me understand how to identify problems and create solutions based on user needs. I followed the main steps such as understanding the problem and generating ideas.
 - **Reflection**: From this activity, I learned the importance of understanding the problem before finding a solution. It also helped me improve my thinking and problem-solving skills.
 
