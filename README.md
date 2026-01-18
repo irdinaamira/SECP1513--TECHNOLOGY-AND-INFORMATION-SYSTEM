@@ -43,7 +43,7 @@
 
  ## Design Thinking Project 
 ### 1. Report
-- **File**: [Report.pdf](report.pdf)
+- **File**: [Report.pdf](Report.pdf)
 ### 2. Presentation slide
 - **File**: [Slide.pdf](Slide.pdf)
 
