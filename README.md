@@ -22,9 +22,9 @@
 - **Reflection**:
 
 
-### 4. Assignment 4 - Design Thinking Report: ADHD Device Project
-- **File**: [Assignment4_DesignThinking.pdf](Assignment4_DesignThinking.pdf)  
-- **Summary**: Report on our design thinking process for the ADHD device project.
+### 4. Assignment 4 - Newsletter
+- **File**: [Assignment4_Newsletter.pdf](Assignment4_Newsletter.pdf)  
+- **Summary**: .
 - **Reflection**: 
 ---
 
@@ -40,7 +40,7 @@
   ![After reattaching the pc compartments](reattached_pc.jpg)
   ![After reattaching the pc compartments](attach_pc.jpg)
 
-  
+ ## Design Thinking Project 
 
 
 
