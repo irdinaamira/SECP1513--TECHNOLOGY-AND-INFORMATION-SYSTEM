@@ -45,7 +45,7 @@
 ### 1. Report
 - **File**: [Report.pdf](report.pdf)
 ### 2. Presentation slide
-- **File**: [Presentation_Slide.pdf](Slide.pdf)
+- **File**: [Slide.pdf](Slide.pdf)
 
 - **Summary**: The design thinking activity helped me understand how to identify problems and create solutions based on user needs. I followed the main steps such as understanding the problem and generating ideas.
 - **Reflection**: From this activity, I learned the importance of understanding the problem before finding a solution. It also helped me improve my thinking and problem-solving skills.
