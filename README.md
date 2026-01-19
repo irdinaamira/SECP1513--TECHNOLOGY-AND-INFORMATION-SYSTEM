@@ -46,10 +46,10 @@
   ![After reattaching the pc compartments](attach_pc.jpg)
 
  ## Design Thinking Project 
-### Report
-- **File**: [Report.pdf](Report.pdf)
+ 
+- **Report**: [https://drive.google.com/file/d/1wyFnhcY0r3P-aGUbkxfEGhPCjemwRkde/view?usp=sharing]
 - **Link Youtube**: [https://youtu.be/L9cK-spO6H8]
-- **Slide**: [Slide.pdf](Slide.pdf)
+- **Slide**: [https://drive.google.com/file/d/1mbiAE8Zq4W4EDsrqIio_xApL6dJQN80N/view?usp=sharing]
   
 - **Summary**: The design thinking activity helped me understand how to identify problems and create solutions based on user needs. I followed the main steps such as understanding the problem and generating ideas.
 - **Reflection**: From this activity, I learned the importance of understanding the problem before finding a solution. It also helped me improve my thinking and problem-solving skills.
