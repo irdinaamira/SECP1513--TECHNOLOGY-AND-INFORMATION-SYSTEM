@@ -7,7 +7,7 @@
 ## Assignments
 
 ### 1. Assignment 1 - Industry Talk Video (UTM Open Day)
-- **File**: [Assignment1_Video.mp4](Assignment1_Video.mp4.mp4)  
+- **File**: [https://drive.google.com/file/d/1MJ7eSTLT99CUjS1-GJ_s1Mv_fp26n1UA/view] 
 - **Summary**: The UTMD InsightX industry talks discussed Information Systems, Digital Infrastructure, and Data Engineering. The talks explained how information systems are used to manage data and support daily business operations. They also covered how digital infrastructure and data engineering help store, process, and manage data to support modern systems and organisations.
 - **Reflection**:From these talks, I learned that information systems, digital infrastructure, and data engineering are closely connected in real industry environments. I understood how data is managed and supported by a strong digital infrastructure to help organisations work efficiently. Overall, these talks helped me gain a better understanding of how technology is applied in real-world systems
   
