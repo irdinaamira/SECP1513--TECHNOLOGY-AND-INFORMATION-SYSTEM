@@ -44,6 +44,7 @@
  ## Design Thinking Project 
 ### Report
 - **File**: [Report.pdf](Report.pdf)
+- **Link Youtube: [https://youtu.be/L9cK-spO6H8]
 - **Summary**: The design thinking activity helped me understand how to identify problems and create solutions based on user needs. I followed the main steps such as understanding the problem and generating ideas.
 - **Reflection**: From this activity, I learned the importance of understanding the problem before finding a solution. It also helped me improve my thinking and problem-solving skills.
 
