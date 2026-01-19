@@ -26,7 +26,7 @@
 
 
 ### 4. Assignment 4 - Newsletter
-- **File**: [Assignment4_Newsletter.pdf](Assignment4_Newsletter.pdf)
+- **File**: [https://drive.google.com/file/d/14Ru4AZBtZ891KCWvgpiqCI200ZNvN68b/view?usp=sharing]
   
 - **Summary**:The industrial visit to Biocon Sdn. Bhd exposed students to the biotechnology manufacturing environment. The visit showed how
   Computing systems, automation, databases, and ERP systems are used in insulin production, quality control, and supply chain management to ensure efficiency and compliance.
